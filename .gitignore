@@ -10,5 +10,5 @@
 
 # project specific
 _bookdown_files/*
-_docs/*
+docs/*
 packages.bib
