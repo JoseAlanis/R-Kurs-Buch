@@ -18,3 +18,12 @@ citations
 equations
 theorems-and-proofs
 callout-blocks
+einführung-in-dplyr-und-tidyverse
+dplyr-die-wichtigsten-befehle
+übung-1
+dplyr-der-piping-operator
+beispiel
+übung-2
+dplyr-neue-variablen-mit-mutate-berechnen
+beispiel-1
+aufgabe-bis-zum-nächsten-mal
